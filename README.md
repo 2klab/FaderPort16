@@ -13,12 +13,13 @@ Presonus FaderPort16 or FaderPort8 Interface including Scribble text
         - Select
         - Fader touch
         - Fader move
-        - mini-screens - scribble screens text
+        - mini-screens - scribble screens text: 7 lines of data or 
+           2 lines of text with VU-Meter
         - Toggle state
-    - Left Shift is current
+    - Left Shift is realtime
     - Right Shift is toggle 
 
     Prints to console currently, so to be overridden to fit specifics
-    Mido numbers channels 0 to 15 instead of 1 to 16, same idea is applied here
+    Mido numbers channels 0 to 15 instead of 1 to 16: same numbering is applied here
 
     - Demos included
